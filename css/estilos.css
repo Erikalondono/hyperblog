@@ -7,6 +7,18 @@ body
     margin: 0;
     padding: 0;
 }
+
+#comienzo
+
+{
+    background: #33a;
+    box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5cm;
+
+}
 #container
 {
     width: 70%;
